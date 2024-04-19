@@ -14,7 +14,8 @@ More information and details be found below.
 Let me know if you have any questions!
 
 
-## Auction Database Preparion (AuctionSQL.sql)
+## Database Preparion for Auction 
+file = AuctionSQL.sql
 
 To streamline the auction process, the database has been structured with three key tables:
 
@@ -46,7 +47,8 @@ In addition to these tables, five procedures have been developed to manage aucti
 
 These tables and procedures collectively facilitate efficient management and execution of the auction process within the database.
 
-## Store Selection (StoreLocation.sql)
+## Store Selection
+file = StoreLocation.sql
 
 1. A table was created with the following columns: “CustomerID”, “PersonType”, “TotalOrderAmount”, “City", and “CountryRegionCode”;
    
