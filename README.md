@@ -1,4 +1,4 @@
-# AdventureWorks_SQL
+# Adventure Works SQL Project
 
 Adventure Works is a fictional company often used as a sample relational database.
 
