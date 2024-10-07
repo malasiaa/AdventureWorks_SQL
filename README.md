@@ -1,6 +1,6 @@
 # Adventure Works SQL Project
 
-Adventure Works is a fictional company often used as a sample relational database.
+Adventure Works is a fictional company often used as a relational database sample.
 
 In this project, there were two main challenges. First, preparing the database for an upcoming auction. Secondly, finding the ideal locations for two physical stores in the United States.
 
